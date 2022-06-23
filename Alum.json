@@ -2,11 +2,11 @@
   "music": [
     {
       "id": "wake_up_01",
-      "title": "Intro - The Way Of Waking Up (feat. Alan Watts)",
+      "title": "Start with Mozart",
       "album": "Wake Up",
       "artist": "The Kyoto Connection",
       "genre": "Electronic",
-      "source": "https://storage.googleapis.com/uamp/The_Kyoto_Connection_-_Wake_Up/01_-_Intro_-_The_Way_Of_Waking_Up_feat_Alan_Watts.mp3",
+      "source":"http://37.251.146.169:8300/stream/1/",
       "image": "https://storage.googleapis.com/uamp/The_Kyoto_Connection_-_Wake_Up/art.jpg",
       "trackNumber": 1,
       "totalTrackCount": 13,
